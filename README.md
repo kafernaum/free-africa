@@ -157,6 +157,48 @@ Elle ne garantit ni l’exhaustivité, ni l’exactitude de chaque information, 
 
 La compétence ne doit pas être utilisée pour produire des accusations non fondées, contourner des restrictions d’accès, collecter des données personnelles sans base légitime ou exécuter des actions externes sans autorisation explicite.
 
+## Questions fréquentes
+
+### Free Africa remplace-t-elle une recherche humaine ?
+
+Non. Free Africa est un outil d’aide à l’investigation. Elle organise la recherche, confronte les sources et prépare des propositions, mais les conclusions importantes doivent être vérifiées et validées par des personnes compétentes.
+
+### Free Africa peut-elle étudier tous les pays africains à la fois ?
+
+Elle peut produire des comparaisons, mais chaque enquête doit être délimitée. Pour une comparaison multi-pays, précisez les pays, les indicateurs, la période et le critère de comparaison.
+
+### La compétence accède-t-elle automatiquement à Internet ?
+
+Non. Elle utilise uniquement les capacités réellement disponibles dans l’environnement Claude utilisé. Si la recherche web n’est pas disponible, elle doit l’indiquer et travailler à partir des documents fournis.
+
+### Free Africa peut-elle garantir qu’un financement est disponible ?
+
+Non. Elle peut vérifier les informations accessibles sur un appel, un guichet ou une institution. Elle doit distinguer une annonce, une éligibilité potentielle, un financement confirmé et un décaissement.
+
+### Que faire si une donnée est manquante ?
+
+La compétence doit indiquer « non disponible » ou « à vérifier ». Elle ne doit pas remplacer une donnée manquante par zéro ni inventer une estimation.
+
+### Free Africa peut-elle appliquer le cadre vitaliste ?
+
+Oui, sur demande explicite. Elle doit alors distinguer les résultats empiriques de l’interprétation théorique. Si la formule du SRV ou son corpus n’est pas fourni, elle doit le demander plutôt que l’inventer.
+
+### Free Africa peut-elle surveiller automatiquement les évolutions ?
+
+Non, pas par elle-même. Une veille récurrente nécessite une infrastructure distincte, configurée et autorisée. Sans cela, elle peut produire un état des lieux daté à la demande.
+
+### Les résultats sont-ils fiables à 100 % ?
+
+Non. La compétence vise la traçabilité, le recoupement et la transparence, mais elle ne garantit ni l’exhaustivité ni l’absence d’erreur. Les décisions importantes exigent une validation humaine.
+
+### Puis-je utiliser Free Africa pour des accusations de corruption ?
+
+Non, pas sur la base d’une rumeur ou d’un indicateur agrégé. La compétence doit distinguer allégation, enquête, décision de justice et fait établi, et ne doit pas produire d’accusation non fondée.
+
+### Comment proposer une amélioration ?
+
+Consultez le guide [`CONTRIBUTING.md`](./CONTRIBUTING.md). Vous pouvez proposer une source, un modèle, un test, une correction ou une traduction.
+
 ## Contribution
 
 Les contributions sont bienvenues. Consultez le guide [`CONTRIBUTING.md`](./CONTRIBUTING.md) pour proposer une source, un modèle, un test, une correction ou une traduction.
