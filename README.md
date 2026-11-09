@@ -77,6 +77,22 @@ Free Africa est conçue pour respecter les règles suivantes :
 
 ## Installation dans Claude
 
+### Installation directe — Claude Code
+
+```bash
+npx skills add https://github.com/kafernaum/free-africa --skill free-africa -a claude-code
+```
+
+Pour installer Free Africa globalement, dans tous vos projets :
+
+```bash
+npx skills add https://github.com/kafernaum/free-africa --skill free-africa -a claude-code -g -y
+```
+
+La commande `npx skills add` nécessite Node.js 22.20 ou une version ultérieure. Elle installe la compétence dans l’emplacement attendu par Claude Code. Redémarrez Claude Code ou ouvrez une nouvelle session si nécessaire, puis vérifiez que Free Africa est disponible.
+
+### Installation par importation ZIP — Claude web ou application
+
 1. Téléchargez ou clonez ce dépôt.
 2. Créez un dossier nommé `free-africa` contenant `SKILL.md`, `references/` et `assets/`.
 3. Compressez ce dossier en archive ZIP, en conservant le dossier racine `free-africa/`.
