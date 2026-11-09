@@ -102,6 +102,8 @@ free-africa/
 ├── README.md
 ├── SKILL.md
 ├── GUIDE.md
+├── QUICKSTART.md
+├── CONTRIBUTING.md
 ├── LICENSE
 ├── references/
 │   ├── protocole-enquete.md
@@ -117,6 +119,8 @@ free-africa/
 |---|---|
 | `SKILL.md` | Instructions principales de la compétence. |
 | `GUIDE.md` | Utilisation, validation et maintenance. |
+| `QUICKSTART.md` | Guide d’utilisation rapide. |
+| `CONTRIBUTING.md` | Guide de contribution. |
 | `references/protocole-enquete.md` | Méthode de recherche, registre des preuves et examen contradictoire. |
 | `references/domaines-sources.md` | Domaines d’investigation et pistes de sources. |
 | `references/evaluation.md` | Comparaison des options et fiche d’action. |
@@ -155,15 +159,7 @@ La compétence ne doit pas être utilisée pour produire des accusations non fon
 
 ## Contribution
 
-Les contributions sont bienvenues, notamment pour :
-
-- Améliorer les instructions de recherche et de vérification.
-- Ajouter des sources africaines fiables et des méthodes d’évaluation.
-- Développer des modèles de rapports adaptés à des secteurs précis.
-- Ajouter des tests de réception et des cas d’usage.
-- Traduire ou adapter la compétence à d’autres langues et contextes.
-
-Avant toute contribution, veillez à ne pas inclure de données personnelles, de documents confidentiels ou de contenus dont vous ne détenez pas les droits nécessaires.
+Les contributions sont bienvenues. Consultez le guide [`CONTRIBUTING.md`](./CONTRIBUTING.md) pour proposer une source, un modèle, un test, une correction ou une traduction.
 
 ## Statut
 
