@@ -29,4 +29,4 @@ La skill ne crée pas d’accès web, de connecteur, d’abonnement, de mémoire
 Version initiale proposée, à tester dans Claude. Les tests de réception sont fournis, mais leur réussite n’est pas revendiquée. La grille de comparaison est une proposition méthodologique non validée scientifiquement. Aucune affiliation officielle avec Anthropic n’est revendiquée.
 
 ## Réutilisation
-Aucune licence de réutilisation n’est accordée par ce dépôt à ce stade. Le choix d’une licence reste à déterminer par son propriétaire.
+Ce projet est distribué sous licence MIT. Voir le fichier `LICENSE`.
